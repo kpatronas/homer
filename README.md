@@ -30,4 +30,5 @@ server01  /dev/mapper/rootvg-home_lv  19G        232M      1.00%     helen      
 Optional parameters
 
 -h: Dont show headers
+
 -d: define home path (or any path)
